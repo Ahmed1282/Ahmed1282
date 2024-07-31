@@ -14,7 +14,7 @@
 
 
 
-<p align="center">
+<p
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1282&show_icons=true&theme=chartreuse-dark">
 </p>
 
