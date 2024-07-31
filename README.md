@@ -18,4 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ahmed1282&show_icons=true&theme=chartreuse-dark">
 </p>
 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ahmed1282&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=dracula" />
+</a>
 
