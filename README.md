@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Baig</h1>
-<h3 align="center">I'm a passionate Computer Science student studying at FAST-NUCES.</h3>
+<h3 align="center">I'm a Computer Science graduate from FAST-NUCES Islamabad.</h3>
 
 - 📫 How to reach me **ahmedbaig137@gmail.com**
 
