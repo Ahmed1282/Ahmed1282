@@ -52,6 +52,6 @@ To keep things clean, I've categorized my core technologies:
 
 ### 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-1282&theme=chartreuse_dark" alt="GitHub Stats">
-</p>
+###<p align="center">
+###  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmed-1282&theme=chartreuse_dark" alt="GitHub Stats">
+###</p>
